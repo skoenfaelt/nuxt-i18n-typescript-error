@@ -1,0 +1,14 @@
+﻿{
+  "landingPage": {
+    "label": "Zur Startseite"
+  },
+  "info": {
+    "mandatoryFields": "Mit * markierte Felder müssen ausgefüllt werden."
+  },
+  "status": {
+    "error": "Fehler!",
+    "info": "Information",
+    "success": "Erfolg!",
+    "warning": "Warnung!"
+  }
+}

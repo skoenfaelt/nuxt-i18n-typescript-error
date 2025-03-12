@@ -1,0 +1,14 @@
+﻿{
+  "landingPage": {
+    "label": "Home"
+  },
+  "info": {
+    "mandatoryFields": "Fields marked with * must be filled out."
+  },
+  "status": {
+    "error": "Error!",
+    "info": "Information",
+    "success": "Success!",
+    "warning": "Warning!"
+  }
+}
